@@ -3,7 +3,7 @@ Atividade Prática 4 - Linguagem de Programação - C++ / Multiplicação com fu
 
 Programa em C++ para efetuar uma multiplicação usando somas sucessivas (função recursiva).
 
-Pratica1:
+Pratica4:
 
 Escreva um algoritmo em linguagem C que atenda os seguintes requisitos:
 ✓ Crie um registro para armazenar o seu Nome de um funcionário e o seu salário.
